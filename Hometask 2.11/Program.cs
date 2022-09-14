@@ -20,7 +20,7 @@ namespace Hometask_2._11
         {
             //Transaction();
             //Operations();
-            NPlusOneProblem();
+            //NPlusOneProblem();
             //Joins();
         }
 

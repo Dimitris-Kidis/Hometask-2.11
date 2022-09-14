@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Hometask_2._11.Migrations
 {
     [DbContext(typeof(ScheduleDbContext))]
-    [Migration("20220914113107_Initial")]
+    [Migration("20220914131530_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
